@@ -1,19 +1,19 @@
 To-Do-List 2022
 
-1. HTML.........................(Started at 15/11/2021)
+1. HTML...................................(Started at 15/11/2021)
 2. CSS
-  2.1 CSS Dasar.................(Started at 06/12/2021)
-  2.2 CSS Layouting.............(Started at 12/12/2021)
-  2.3 CSS Unit..................(Started at 21/12/2021)
-  2.4 CSS Flexbox...............(Started at 01/01/2022)
-  2.5 CSS Grid..................(Started at 09/01/2022)
-  2.6 CSS3......................(Started at 20/01/2022)
+  2.1 CSS Dasar...........................(Started at 06/12/2021)
+  2.2 CSS Layouting.......................(Started at 12/12/2021)
+  2.3 CSS Unit............................(Started at 21/12/2021)
+  2.4 CSS Flexbox.........................(Started at 01/01/2022)
+  2.5 CSS Grid............................(Started at 09/01/2022)
+  2.6 CSS3................................(Started at 20/01/2022)
   2.7 CSS Framework
-    2.7.1 Bootstrap 5...........(Started at 23/01/2022)
+    2.7.1 Bootstrap 5.....................(Started at 23/01/2022)
     2.7.2 TailwindCSS.....................(Started at )
-3. Git & GitHub.................(Started at 23/01/2022)
+3. Git & GitHub...........................(Started at 23/01/2022)
 4. Javascript
-  4.1 Javascript Dasar....................(Started at )
+  4.1 Javascript Dasar....................(Started at 03/02/2022)
   4.2 Javascript Lanjutan.................(Started at )
   4.3 Node.js.............................(Started at )
 5. PHP
