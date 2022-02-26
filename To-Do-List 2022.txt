@@ -1,6 +1,7 @@
 To-Do-List 2022
 
 1. HTML...................................(Started at 15/11/2021)
+
 2. CSS
   2.1 CSS Dasar...........................(Started at 06/12/2021)
   2.2 CSS Layouting.......................(Started at 12/12/2021)
@@ -11,15 +12,25 @@ To-Do-List 2022
   2.7 CSS Framework
     2.7.1 Bootstrap 5.....................(Started at 23/01/2022)
     2.7.2 TailwindCSS.....................(Started at )
+  2.8 CSS Pre-processor
+    2.8.1 SASS............................(Started at )
+    
 3. Git & GitHub...........................(Started at 23/01/2022)
-4. Javascript
-  4.1 Javascript Dasar (WPU)..............(Started at 03/02/2022)
-  4.1 Javascript Dasar (PZN)..............(Started at 19/02/2022)
+
+4.(1) Javascript (WPU)
+  4.1 Javascript Dasar...................(Started at 03/02/2022)
   4.2 Javascript Lanjutan.................(Started at )
   4.3 Node.js.............................(Started at )
+  
+4.(2) Javascript (PZN)
+  4.1 Javascript Dasar..................(Started at 19/02/2022)
+  4.2 Javascript OOP....................(Started at )
+  4.3 Javascript DOM....................(Started at )
+  4.4 Javascript Async..................(Started at )
+  
 5. PHP
   5.1 PHP Dasar...........................(Started at )
-  5.2 OOP Dasar PHP.......................(Started at )
+  5.2 PHP OOP.............................(Started at )
   5.3 Membuat aplikasi MVC dengan PHP.....(Started at )
   5.4 PHP Framework
     5.4.1 Codeigniter.....................(Started at )
